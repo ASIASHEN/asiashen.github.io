@@ -1,5 +1,5 @@
 # Site settings
-title: 负责人：翟帅帅
+title: 实验室A210
 SEOTitle: 国土安全局
 header-img: img/post-bg-desk.jpg
 email: 1431086058@qq.com
@@ -94,11 +94,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "翟帅帅",
+        title: "翟帅帅 QQ：1351023294",
         href: ""
     },{
         title: "ASIA",
-        href: "http://www.zhihu.com/people/asia-71-44
-"
+        href: "http://www.zhihu.com/people/asia-71-44"
+    }，{
+        title: "黄涛 QQ：1240477267",
+        href: "https://www.zhihu.com/people/f490b0b3a5bf8dbb11d44f1f100abb9b"
     }
 ]
