@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      IP地址基础知识
-subtitle:   网络通信协议之IP
+title:      室内环境数据采集机器人与可视化展示平台
+subtitle:   树莓派，Kinect，stm32
 date:       2017-09-24
-author:     Mlin
-header-img: img/post-bg-ip.jpg
+author:     陈哲
+header-img: img/1.png
 catalog: true
 tags:
     - IP
@@ -12,7 +12,6 @@ tags:
 ---
 
 
-> 本文首次发布于 [Mlin Blog](http://happymiki.top)、[简书](http://www.jianshu.com/u/3f05018752b8)，作者 [@木林(Mlin)](http://github.com/happymiki) ,转载请保留原文链接。
 
 # 前言
 IP地址是指互联网协议地址（Internet Protocol Address，又译为网际协议地址），是IP Address的缩写。IP地址是IP协议提供的一种统一的地址格式，它为互联网上的每一个网络和每一台主机分配一个逻辑地址，以此来屏蔽物理地址的差异。
