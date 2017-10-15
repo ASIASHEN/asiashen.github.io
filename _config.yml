@@ -1,29 +1,29 @@
 # Site settings
 title: 实验室A210
-SEOTitle: 木林的博客 | Mlin Blog
+SEOTitle: 创新学院--A210
 header-img: img/post-bg-desk.jpg
 email: 1431086058@qq.com
-description: "Every failure is leading towards success."
+description: "钢铁的坐骑，金属的羽翼，我们的征程是星辰大海！"
 keyword: "a210，帅帅，ASIA"
-url: "http://asiashen.github.io"          # your host, for absolute URL
+url: "http://a210.club"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/happymiki/happymiki.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "钢铁的坐骑，金属的羽翼，我们的征程是星辰大海！"
+sidebar-about-description: "Every failure is leading towards success."
 sidebar-avatar: img/logoquan13841150796.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     5698723036
-zhihu_username:     cml-46-53
-github_username:    happymiki
-facebook_username:  100013458367270
-jianshu_username:   3f05018752b8
-#twitter_username:   happymiki
+weibo_username:     username
+zhihu_username:     ASIA
+github_username:    ASIASHEN
+facebook_username:  username
+jianshu_username:   username
+#twitter_username:   ASIA
 
 
 
@@ -94,10 +94,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·Miki",
-        href: "http://www.jianshu.com/users/3f05018752b8"
+        title: "翟帅帅",
+        href: ""
     },{
-        title: "CSDN",
-        href: "http://my.csdn.net/qq_34104227"
+        title: "ASIA",
+        href: "http://www.zhihu.com/people/asia-71-44
+"
     }
 ]
