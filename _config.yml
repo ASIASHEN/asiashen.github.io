@@ -1,6 +1,6 @@
 # Site settings
-title: 实验室A210
-SEOTitle: 国土安全局
+title: ASIA
+SEOTitle: ASIA的微博
 header-img: img/post-bg-desk.jpg
 email: 1431086058@qq.com
 description: "Every failure is leading towards success."
@@ -94,10 +94,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "翟帅帅 QQ：1351023294",
-        href: ""
-    },{
-        title: "黄涛 QQ：1240477267 ASIA QQ：1431086058",
-        href: "https://www.zhihu.com/people/f490b0b3a5bf8dbb11d44f1f100abb9b"
+        title: "ASIA QQ：1431086058",
+        href: "http://www.zhihu.com/people/asia-71-44"
     }
 ]
