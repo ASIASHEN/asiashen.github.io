@@ -11,8 +11,8 @@ github_repo: "https://github.com/happymiki/happymiki.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "近期的愿望：完成省创！"
-sidebar-avatar: img/logoquan13841150796.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: about/img/avatar_me(2).jpg        # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: happymiki
+disqus_username: ASIA
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
