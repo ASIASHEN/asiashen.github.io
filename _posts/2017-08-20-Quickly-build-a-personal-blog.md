@@ -3,7 +3,7 @@ layout:     post
 title:      快速搭建个人博客网页
 subtitle:   手把手教你在半小时内搭建自己的个人博客(如果不踩坑的话🙈🙊🙉)
 date:       2017-08-20
-author:     miki
+author:     ASIA
 header-img: img/post-bg-build-blog.jpg
 catalog: true
 tags:
@@ -12,9 +12,9 @@ tags:
 
 > 正所谓前人栽树，后人乘凉。
 > 
-> 感谢[BY](https://github.com/qiubaiying)提供的博客模板
+> 感谢[BY](https://github.com/ASIASHEN/asiashen.github.io)提供的博客模板
 > 
-> [我的博客](http://happymiki.top)
+> [我的博客](http://a210.club)
 
 #一、前言
 本来想自己用Ubuntu+LAMP搭建一个服务器，在安装好LAMP环境之后，发现居然需要n多知识，比如PHP,JavaScript，CSS,HTML，MySQL，Apache等众多的技能，学完之后搭建起来可能黄花菜都凉了，于是乎在网上找到了github，居然可以用github pages来搭建自己的静态网站，就立马开始忙乎，从 Jekyll 到 GitHub Pages 中间踩了不少的坑，终于把我的个人博客[Mlin Blog](http://happymiki.top)搭建出来了。。。
@@ -35,7 +35,7 @@ tags:
 
 ### 2.2 拉取我的博客模板
 
-注册完成后搜索 `happymiki.github.io` 进入[我的仓库](https://github.com/happymiki/happymiki.github.io)
+注册完成后搜索 `happymiki.github.io` 进入[我的仓库](https://github.com/ASIASHEN/asiashen.github.io)
 
 ![](http://upload-images.jianshu.io/upload_images/6757403-045e040cd88f3613.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
